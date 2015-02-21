@@ -30,7 +30,8 @@ A video of the experiment including an example of the 6 recorded activities with
 
 NOTE: In order to have a consistent dataset for this class, all students sourced the dataset from this link [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
 
-The dataset includes the following files. Subfolders are shown with a /:
+##The dataset includes the following files. 
+###Subfolders are shown with a /:
 =========================================
 
 - 'subject_test.txt': Participants in the experiment selected for the test subset
