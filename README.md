@@ -32,7 +32,6 @@ NOTE: In order to have a consistent dataset for this class, all students sourced
 
 ##The dataset includes the following files. 
 ###Subfolders are shown with a /:
-=========================================
 
 - 'subject_test.txt': Participants in the experiment selected for the test subset
 - 'subject_train.txt': Participants in the experiment selected for the training subset
